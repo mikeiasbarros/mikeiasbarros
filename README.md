@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mikeias and I'm a Go and C# developer from Brazil.  <br>Flutter enthusiast and backend-focused.</h2>
+<h2 align="left">Hi 👋! My name is Mikeias and I'm a Go and Flutter developer from Brazil.  <br>Computer enthusiast and backend-focused.</h2>
 
 ###
 
